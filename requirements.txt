@@ -1,0 +1,26 @@
+nbconvert
+jinja2
+pandas 
+numpy==1.19.3
+matplotlib 
+scipy
+scikit-learn 
+ipython 
+jupyter 
+# tensorflow 
+# opencv-python 
+# keras 
+#tensorflow 
+# opencv-python 
+opencv-python==4.5.3.56
+keras 
+# sklearn 
+# nltk 
+snowflake-snowpark-python
+pyod
+seaborn
+Faker
+ipympl
+#jupyter-matplotlib
+ipycanvas 
+orjson
